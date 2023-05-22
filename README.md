@@ -10,7 +10,7 @@
 
 - 💬 Ask me about Web (React)
 
-- 📫 How to reach me ravisenjaliya6@gamil.com
+- 📫 How to reach me ruchig1798@gmail.com
 
 - 🤓 Eager to learn new things
 
