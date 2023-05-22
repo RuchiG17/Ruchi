@@ -19,10 +19,10 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/Mansi senjaliya" target="blank"><img align="center"
+<!--   <a href="https://linkedin.com/in/Mansi senjaliya" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/MansiSenjaliya09/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mansi senjaliya" height="30" width="40" /></a>
-  <a href="https://instagram.com/mansi.senjaliya" target="blank"><img align="center"
+      alt="mansi senjaliya" height="30" width="40" /></a> -->
+  <a href="https://instagram.com/ruchigupta.17" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="mansi.senjaliya" height="30" width="40" /></a>
 </p>
@@ -35,18 +35,18 @@
 <br>
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/MansiSenjaliya09/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mansi Senjaliya's streak"
 src="https://github-readme-streak-stats.herokuapp.com/?user=ravisenjaliya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
   </a>
-</p>
+</p> -->
 <br />
- <p align="center">
+<!--  <p align="center">
 <a  href="https://github.com/MansiSenjaliya09/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
  src="https://github-readme-stats.vercel.app/api?username=ravisenjaliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>   </a>
- </P>
+ </P> -->
  <br/>
- <p align="center">
+<!--  <p align="center">
  <a align="right" href="https://github.com/MansiSenjaliya09/github-readme-stats"><img alt="Mansi Senjaliya's Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=MansiSenjaliya09&l…
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=MansiSenjaliya09&l… -->
