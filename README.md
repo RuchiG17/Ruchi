@@ -19,8 +19,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--   <a href="https://linkedin.com/in/Mansi senjaliya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/MansiSenjaliya09/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+<!--   <a href="https://linkedin.com/in/Ruchi Gupta" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/ruchigupta/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mansi senjaliya" height="30" width="40" /></a> -->
   <a href="https://instagram.com/ruchigupta.17" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
